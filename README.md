@@ -1,8 +1,8 @@
 # Projeto criado no NLW_Setup da Rockeseat
-Este projeto tem como objetivo servir como uma aplicação tanto mobile quano web para o cadastro de novos hábitos e também para o acompanhementos desses novos hábitos.
+Este projeto tem como objetivo apresentar uma aplicação que possa ser acessada tanto em ambientes web quanto mobile, sendo possível cadastrar hábitos que podem ser acompanhados durante o dia através da tela inicial da aplicação durante em seu dia-dia.
 
 ## Tecnologias
-- ReactJs
+- ReactJs 
 - React Native
 - Axios
 - Tailwind CSS
